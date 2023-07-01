@@ -127,3 +127,12 @@ Streamlit and Pygwalker are a dream team when it comes to simplifying data explo
 - [Pygwalker in Streamlit Demo](https://github.com/Kanaries/pygwalker-in-streamlit)
 
 For more detailed information on using [Streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en) with Pygwalker, refer to the official documentation.
+
+<iframe
+  src="https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en"
+  width="100%"
+  height="10"
+  frameBorder="0"
+  style={{ border: 0 }}
+  allowFullScreen
+/>
